@@ -56,14 +56,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		571BBF5422A252B300C9399E /* lTextValidation */ = {
+		571BBF5422A252B300C9399E /* TextValidation */ = {
 			isa = PBXGroup;
 			children = (
 				5766258B229CF0B00072ACFB /* textValidationModel.swift */,
 				57662589229CF0A30072ACFB /* textValidationViewModel.swift */,
 				57662587229CF0910072ACFB /* textValidationViewController.swift */,
 			);
-			path = lTextValidation;
+			path = TextValidation;
 			sourceTree = "<group>";
 		};
 		571BBF5522A252DD00C9399E /* LoginValidation */ = {
@@ -109,7 +109,7 @@
 			children = (
 				571BBF5522A252DD00C9399E /* LoginValidation */,
 				571BBF5622A252F800C9399E /* RxDataSource */,
-				571BBF5422A252B300C9399E /* lTextValidation */,
+				571BBF5422A252B300C9399E /* TextValidation */,
 				57862C74226E79C0003689E7 /* Main.storyboard */,
 				57862C70226E79C0003689E7 /* AppDelegate.swift */,
 				57862C77226E79C3003689E7 /* Assets.xcassets */,
